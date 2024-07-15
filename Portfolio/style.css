@@ -16,9 +16,9 @@ html{
 
 :root{
     --bg-color:#080808;
-    --second-bg-color:#001005;
+    --second-bg-color:#131313;
     --text-color:white;
-    --main-color:#00ff51;
+    --main-color:#00ffee;
 }
 
 body{
@@ -95,6 +95,7 @@ section{
     text-align: left;
     justify-content: center;
     margin-top: 3rem;
+    margin-left: 50px;
 }
 
 span{
@@ -120,6 +121,7 @@ span{
 
 .home-img{
     border-radius: 50%;
+    margin-right: 50px;
 }
 
 .home-img img{
@@ -249,7 +251,7 @@ span{
     }
     41%,
     60%{
-        content: "UI / UX Designer";
+        content: "Python Developer";
     }
     61%,
     80%{
